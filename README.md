@@ -2,9 +2,11 @@
 
 ### 共筆
 
-<https://colab.research.google.com/drive/1M430SuQ9R8sgGa_hN9tjdrOLkJ1QmUL6>
+<https://colab.research.google.com/drive/16TW3181McPIejGdEMucOzwcrrE6QkX11>
 
 ### 投影片
+
+[Python 與資料科學的旋風之旅](https://yaojenkuo.io/py_prg/a-whirlwind-tour-of-python.slides)
 
 - Python 程式設計
     - [關於](https://yaojenkuo.io/py_prg/00-about.slides.html#/)
